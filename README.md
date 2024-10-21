@@ -23,3 +23,4 @@ Dieses Projekt ist eine einfache Webanwendung, die den Caesar-Verschlüsselungsa
 
 ## Screenshot
 
+<img src="./src/img/screenshot.png" alt="">
